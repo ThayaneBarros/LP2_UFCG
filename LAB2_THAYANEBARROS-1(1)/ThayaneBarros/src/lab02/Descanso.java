@@ -12,6 +12,7 @@ public class Descanso {
 	private int numerosDeSemana;
 	private String emoji;
 	private String humor;
+	private int unusedField;
 	
 	/**
 	 * Constrói o descanso.
